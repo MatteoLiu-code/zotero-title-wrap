@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Zotero Title Wrap",
+  "version": "0.1.2",
+  "description": "Wrap titles and Zotero Style remarks in the Zotero 10 library items list.",
+  "applications": {
+    "zotero": {
+      "id": "title-wrap@local.zotero",
+      "update_url": "https://zotero-title-wrap.invalid/updates.json",
+      "strict_min_version": "10.0",
+      "strict_max_version": "10.0.*"
+    }
+  }
+}
